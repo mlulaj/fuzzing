@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # rfuzz: coverage-directed fuzzing for RTL research platform
 
 This repository contains the `rfuzz` research platform which was
@@ -247,3 +248,6 @@ Kevin Laeufer and Jack Koenig and Donggyu Kim and Jonathan Bachrach and Koushik 
 _In International Conference On Computer Aided Design, 2018 (ICCAD'18)_, San Diego, CA, November 2018.
 
 [Preprint PDF](https://people.eecs.berkeley.edu/~laeufer/papers/rfuzz_kevin_laeufer_iccad2018.pdf)
+=======
+# fuzzing
+>>>>>>> 6ef94151d27a819d213d41f0aa1dd2918d782d54
